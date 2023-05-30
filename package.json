@@ -1,0 +1,17 @@
+{
+  "name": "team-managment",
+  "version": "1.0.0",
+  "description": "an app to view and manage employees, departments and roles.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Drew",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0"
+  }
+}
