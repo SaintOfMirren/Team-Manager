@@ -1,6 +1,9 @@
 const inquirer = require('inquirer');
 const mysql = require('mysql');
 const consoleTable = require('console.table');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 // Create a connection to the MySQL database
 const connection = mysql.createConnection({
