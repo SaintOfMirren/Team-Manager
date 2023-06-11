@@ -1,5 +1,5 @@
 {
-  "name": "team-managment",
+  "name": "team-manager",
   "version": "1.0.0",
   "description": "an app to view and manage employees, departments and roles.",
   "main": "app.js",
